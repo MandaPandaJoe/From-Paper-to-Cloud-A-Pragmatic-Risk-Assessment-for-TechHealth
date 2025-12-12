@@ -1,3 +1,0 @@
-git rm "path/to/file.pdf"
-git commit -m "Delete broken PDF"
-git push
