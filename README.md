@@ -1,2 +1,2 @@
 # From-Paper-to-Cloud-A-Pragmatic-Risk-Assessment-for-TechHealth
-TechHealth Medical Clinic, a mid-sized provider with three locations serving 15,000 patients a year. In week one as a Governance, Risk, and Compliance (GRC) analyst, I assessed the shift from paper to a third-party, cloud-hosted Electronic Health Records (EHRs) platform, with a HIPAA audit in 90 days and rising patient data concerns.
+TechHealth Medical Clinic, a mid-sized provider with three locations serving 15,000 patients a year. In week one as (GRC) analyst, I assessed the shift from paper to a third-party, cloud-hosted Electronic Health Records (EHRs) platform, with a HIPAA audit in 90 days and rising patient data concerns.
